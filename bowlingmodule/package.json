@@ -1,0 +1,15 @@
+{
+  "name": "piipbowling",
+  "version": "1.0.0",
+  "description": "piip coding test. Bowling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Luan <luan.b@stjamesperth.com.au>",
+  "license": "ISC"
+
+}
